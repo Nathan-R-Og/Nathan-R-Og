@@ -4,6 +4,8 @@ i do game stuff and coding sometimes usually hopefully
 
 i can animate, music, develop and write (all that good stuff)
 
+i also love absolutely ripping apart old crusty video games for developer trivia and modding purposes
+
 ## Stuff
 
 ### Chameleon Twist
@@ -11,6 +13,28 @@ i can animate, music, develop and write (all that good stuff)
 i helped start (and maintain usually) [The Chameleon Twist Reverse Engineering Team](https://github.com/chameleonTwistRet), with aim to completely reverse engineer [Chameleon Twist 1 (JP)](github.com/chameleonTwistRet/chameleonTwistv1.0-JP)
 
 other versions to follow obviously but jp just has more content
+
+### Other Decompilations/Dissassemblies
+
+here are a list of other, less known games ive started or want to start decomps/disasms for
+
+* [Chavlo 55 - Super Puzzle Action](https://github.com/Nathan-R-Og/chalvo55) (Gameboy)
+
+* Kirby's Adventure (NES)
+
+* Ripened Tingle's Balloon Trip of Love (NDS)
+
+* Planet DOB (PSX)
+
+* Gregory Horror Show (PS2)
+
+* Pokemon Channel (GCN)
+
+* Pac-Man Party (Wii)
+
+(list subject to change)
+
+mostly random hipster games i think would be cool to rip apart and or port to newer hardware
 
 ### My own stuff
 
