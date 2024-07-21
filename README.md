@@ -20,6 +20,8 @@ here are a list of other, less known games ive started or want to start decomps/
 
 * [Chavlo 55 - Super Puzzle Action](https://github.com/Nathan-R-Og/chalvo55) (Gameboy)
 
+* [Donkey Kong Jr. Math](https://github.com/Nathan-R-Og/DKJRMath) (NES)
+
 * Kirby's Adventure (NES)
 
 * Ripened Tingle's Balloon Trip of Love (NDS)
