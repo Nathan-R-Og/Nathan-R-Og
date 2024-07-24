@@ -10,7 +10,7 @@ i also love absolutely ripping apart old crusty video games for developer trivia
 
 ### Chameleon Twist
 
-i helped start (and maintain usually) [The Chameleon Twist Reverse Engineering Team](https://github.com/chameleonTwistRet), with aim to completely reverse engineer [Chameleon Twist 1 (JP)](github.com/chameleonTwistRet/chameleonTwistv1.0-JP)
+i helped start (and maintain usually) [The Chameleon Twist Reverse Engineering Team](https://github.com/chameleonTwistRet), with aim to completely reverse engineer [Chameleon Twist 1 (JP)](https://github.com/chameleonTwistRet/chameleonTwistv1.0-JP)
 
 other versions to follow obviously but jp just has more content
 
