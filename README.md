@@ -22,6 +22,8 @@ here are a list of other, less known games ive started or want to start decomps/
 
 * [Donkey Kong Jr. Math](https://github.com/Nathan-R-Og/DKJRMath) (NES)
 
+* [Mother / Earthbound Beginnings / Zero](https://github.com/Nathan-R-Og/mother) (NES)
+
 * Kirby's Adventure (NES)
 
 * Ripened Tingle's Balloon Trip of Love (NDS)
