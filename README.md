@@ -24,6 +24,10 @@ here are a list of other, less known games ive started or want to start decomps/
 
 * [Mother / Earthbound Beginnings / Zero](https://github.com/Nathan-R-Og/mother) (NES)
 
+* [Mario is Missing!](https://github.com/Nathan-R-Og/mariomissing) (SNES)
+
+* [Sonic Blast / G Sonic](https://github.com/Nathan-R-Og/sblast) (GG)
+
 * Kirby's Adventure (NES)
 
 * Ripened Tingle's Balloon Trip of Love (NDS)
